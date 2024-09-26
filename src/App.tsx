@@ -18,7 +18,7 @@ function App() {
       </div>
       <div>
         {Array.from({ length: 5 }).map((_:any, index:number) => {
-          return <p>{index} gfgv</p>
+          return <p>{index} gfgv</p>>
         })}
       </div>
       <h1>Vite + React</h1>
